@@ -47,9 +47,7 @@ This project was a collaborative effort, and I would like to acknowledge the sig
 
 Their dedication, expertise, and innovative ideas were invaluable to the success of this project.
 
-## Acknowledgements
+<!--  ## Acknowledgements
 
 I would also like to extend my gratitude to Durai raj sir and Rishi kumar sir for their guidance and support throughout the project. Their insights and feedback were instrumental in achieving our project goals.
-
-
-Remember to replace placeholders with specific details about your project where necessary. This README template is designed to be comprehensive and user-friendly, providing all the necessary information for understanding and utilizing your Drowsiness Detection System project.
+-->
